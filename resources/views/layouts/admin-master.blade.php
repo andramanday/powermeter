@@ -21,7 +21,7 @@
 <body>
   <div id="app">
     <div class="main-wrapper">
-      <div class="navbar-bg"></div>
+      <div class="navbar-bg bg-danger"></div>
       <nav class="navbar navbar-expand-lg main-navbar">
         @include('admin.partials.topnav')
       </nav>
